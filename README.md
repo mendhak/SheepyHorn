@@ -1,6 +1,6 @@
 
 
-# Sheepy-Horn
+# Sheepy Horn
 
 Productivity tool to assist with joke telling by playing the 'wah wah waah' sound.
 
