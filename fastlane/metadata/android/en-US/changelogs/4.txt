@@ -1,0 +1,2 @@
+* App inclusion into F-Droid
+* Dark title bar
