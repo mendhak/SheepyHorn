@@ -1,0 +1,1 @@
+Plays the "wah wah waaah" sound. Use this when someone tells a bad joke.
