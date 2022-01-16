@@ -4,6 +4,8 @@
 
 Productivity tool to assist with joke telling by playing the 'wah wah waah' sound.
 
+Get it on the [Play Store](https://play.google.com/store/apps/details?id=com.mendhak.sheepyhorn).  Should be on F-Droid soon.
+
 
 
 ### Instructions
@@ -13,3 +15,5 @@ Productivity tool to assist with joke telling by playing the 'wah wah waah' soun
 
 
 ![screenshot](screenshot.png)
+
+
