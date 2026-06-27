@@ -13,8 +13,8 @@ android {
         applicationId = "com.mendhak.sheepyhorn"
         minSdk = 23
         targetSdk = 37
-        versionCode = 4
-        versionName = "4"
+        versionCode = 5
+        versionName = "5"
     }
 
     buildTypes {
