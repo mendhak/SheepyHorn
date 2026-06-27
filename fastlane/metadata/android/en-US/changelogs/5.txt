@@ -1,0 +1,2 @@
+* Updated for latest Android versions
+* Reduced APK size, under 1 MB by @althafvly
